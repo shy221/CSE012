@@ -1,0 +1,17 @@
+1544473273974	Move compilation unit
+1544473286423	Move compilation unit
+1544473531229	Move file
+1544502110890	Copy compilation unit
+1544502121096	Delete element
+1544502128346	Copy compilation unit
+1544502135222	Delete element
+1544502142510	Copy compilation unit
+1544502146735	Delete element
+1544502149993	Move file
+1544502152884	Move file
+1544502326643	Rename method 'getPrefix'
+1544502421607	Rename method 'setWord'
+1544502442245	Rename method 'setPrefix'
+1544502502831	Rename field 'children'
+1544502547520	Rename method 'makeChild'
+1544502570991	Rename method 'getChild'

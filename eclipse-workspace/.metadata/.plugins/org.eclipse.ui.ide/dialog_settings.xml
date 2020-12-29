@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/ysy/eclipse-workspace"/>
+		<item value="/Users/ysy/Downloads/Lab09-MultiMap"/>
+		<item value="/Users/ysy/Downloads/Lab08Deque"/>
+		<item value="/Users/ysy/Downloads/Lab06(0)-ListBasedBag"/>
+		<item value="/Users/ysy/Downloads"/>
+		<item value="/Users/ysy/Downloads/Lab01-SimpleCalculator 2"/>
+		<item value="/Users/ysy/Downloads/Lab01-SimpleCalculator"/>
+		<item value="/Users/ysy/Downloads/Lab06-LinkedStack"/>
+		<item value="/Users/ysy/Downloads/Lab02-Inheritance-Composition"/>
+	</list>
+	<section name="ResourceNavigator">
+		<item value="Aggregate for window 1542082980304" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
+		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="544" key="DIALOG_X_ORIGIN"/>
+		<item value="346" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+		<item value="528" key="DIALOG_HEIGHT"/>
+		<item value="283" key="DIALOG_X_ORIGIN"/>
+		<item value="22" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

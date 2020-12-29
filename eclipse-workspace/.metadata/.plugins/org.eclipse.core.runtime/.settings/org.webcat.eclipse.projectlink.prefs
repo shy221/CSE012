@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.webcat.eclipse.projectlink.preferences.downloadURL=http\://www.cse.lehigh.edu/~efouh/cse017/assignments.xml
+org.webcat.eclipse.projectlink.preferences.downloaded_projects=\#Thu Nov 29 15\:32\:25 EST 2018\nhttp\\\://www.cse.lehigh.edu/~efouh/cse017/Assignment03-NodesMultiMap.zip\=Assignment03-NodesMultiMap\nhttp\\\://www.cse.lehigh.edu/~efouh/cse017/Lab09-BinarySearchTree.zip\=Lab09-BinarySearchTree\nhttp\\\://www.cse.lehigh.edu/~efouh/cse017/lab09.zip\=Lab09-StackIterator\nhttp\\\://www.cse.lehigh.edu/~efouh/cse017/CSE017-Support.zip\=CS2114-Support\nhttp\\\://www.cse.lehigh.edu/~efouh/cse017/Lab08-BinaryTree.zip\=Lab08-BinaryTree\n
+org.webcat.eclipse.projectlink.preferences.submitURL=https\://web-cat.cs.vt.edu/Web-CAT/WebObjects/Web-CAT.woa/wa/assignments/eclipse?institution\=Lehigh
+org.webcat.eclipse.projectlink.preferences.urlType=separate
+org.webcat.eclipse.projectlink.preferences.username=shy221
